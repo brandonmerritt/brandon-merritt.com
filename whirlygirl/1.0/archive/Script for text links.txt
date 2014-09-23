@@ -1,0 +1,22 @@
+
+In My...
+
+<style type="text/css">
+<!--
+a:link {text-decoration: none; color:#8C0046;}, a:visited {text-decoration: none; color:#A45200}, a:active {text-decoration: none; color:#8C0046}
+a:hover {color:#003E7C; }
+
+// -->
+</style>
+
+Currents...
+
+<style type="text/css">
+<!--
+a:link {text-decoration: none; color:#526901;}, a:visited {text-decoration: none; color:#003E7C}, a:active {text-decoration: none; color:#526901}
+a:hover {color:#8C0046; }
+
+// -->
+</style>
+
+<strong>kristen</strong>
